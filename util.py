@@ -7,5 +7,5 @@ class util:
     def __init__(self):
         print "initialized"
 
-    def set_version(self, version="1.0alpha"):
+    def set_version(self, version="1.0alphaBLABLABLA"):
         self.version = version
