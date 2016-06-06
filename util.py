@@ -2,7 +2,7 @@
 
 class util:
 
-    version = 2.0STAV
+    version = 2.0STAV's best version
     
     def __init__(self):
         print "initialized"
