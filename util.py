@@ -2,7 +2,7 @@
 
 class util:
 
-    version = 2.0STAV
+    version = "2.0STAV" # gotta make this a string or else it will error yo!
     
     def __init__(self):
         print "initialized"
