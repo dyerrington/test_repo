@@ -2,7 +2,8 @@
 
 class util:
 
-    version = 1.0
+    version = 1.0Kathleen
+
     
     def __init__(self):
         print "initialized"
