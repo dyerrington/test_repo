@@ -1,9 +1,17 @@
 ## Git Team collaboration
 
+### Technologic
+
 1. Clone it 
-.. `git clone`
+   `git clone`
 2. Check it
-.. `git checkout -b <branch_name>`
+   `git checkout -b <branch_name>`
+3. Add it
+   `git add <filename>`
+4. Commit it
+   `git commit -m "<checkin comment>"
+5. Push it
+   `git push <origin> <branch>`
 
 
 Cats furnished by 
