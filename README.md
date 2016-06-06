@@ -9,7 +9,7 @@
 3. Add it
    `git add <filename>`
 4. Commit it
-   `git commit -m "<checkin comment>"
+   `git commit -m "<checkin comment>"`
 5. Push it
    `git push <origin> <branch>`
 
