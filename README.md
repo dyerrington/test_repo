@@ -1,7 +1,9 @@
-Git Team collaboration
+## Git Team collaboration
 
-git clone
-git checkout -b <branch_name>
+1. Clone it 
+.. `git clone`
+2. Check it
+.. `git checkout -b <branch_name>`
 
 
 Cats furnished by 
